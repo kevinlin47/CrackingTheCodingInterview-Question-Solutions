@@ -40,7 +40,7 @@ public class CTCI22 {
         //get 5th to last item from list
         kthToLast=ourList.kToLast(5);
         System.out.println(kthToLast.data);
-;
+
     }
     
 }
